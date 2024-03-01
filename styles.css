@@ -1,0 +1,19 @@
+body{
+    background-color: silver;
+}
+h1{
+    background-color: indigo;
+    color: gold;
+}
+h2{
+    font-size: 25px;
+    background-color: lightcoral;
+    color: steelblue;
+}
+h3{
+    color: mediumblue;
+}
+h4{
+    color: teal;
+}
+i{color: brown;}
